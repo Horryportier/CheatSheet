@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "f9b3e55f3a4181ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ad4bf79e286277",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conditionals-bash.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d38948e151510a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed7caebc6ae632b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6525e5631ae0c1a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2a50958bb035c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48a891740f5b66bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8eb0eec41a3f30e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "97dce6529742de75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a6fe9c9e219628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conditionals-bash.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "941e742e9d56de54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conditionals-bash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be23684a9a5f8c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "190f08f0735334cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conditionals-bash.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b4ad4bf79e286277",
+  "lastOpenFiles": [
+    "bash/BashScript.md",
+    "README.md",
+    "Obsidian.md",
+    "bash/Bash.md"
+  ]
+}
