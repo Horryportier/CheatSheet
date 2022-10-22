@@ -1,0 +1,1 @@
+	place for things i seen somewhere but dont have time to make a note.

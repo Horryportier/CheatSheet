@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d5ec00a3a5f3a0",
+        "id": "83a87db4c3a04c40",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ad4bf79e286277",
+            "id": "9f012e2f9349bcc0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -131,12 +131,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b4ad4bf79e286277",
+  "active": "9f012e2f9349bcc0",
   "lastOpenFiles": [
-    "Obsidian.md",
+    "General/Type punning.md",
+    "bash/conditionals-bash.md",
     "bash/BashScript.md",
     "bash/Bash.md",
-    "README.md",
-    "bash/conditionals-bash.md"
+    "Obsidian.md",
+    "Future me problem.md",
+    "README.md"
   ]
 }
