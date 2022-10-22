@@ -4,7 +4,7 @@
 [cheat sheet](https://devhints.io/bash)
 
 ```bash 
-!# /bin/bash
+#! /bin/bash
 
 NAME="$1"
 
