@@ -9,3 +9,6 @@ Feel free to clone this repo if you want :).
 
 - [[Bash]]
 - [[Obsidian]]
+- [[Python]]
+- [[Golang]]
+- [[Future me problem]]

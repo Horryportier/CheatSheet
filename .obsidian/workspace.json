@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83a87db4c3a04c40",
+        "id": "1885543c0a960d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f012e2f9349bcc0",
+            "id": "cd4a028c4a31f1f3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -131,14 +131,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9f012e2f9349bcc0",
+  "active": "cd4a028c4a31f1f3",
   "lastOpenFiles": [
-    "General/Type punning.md",
-    "bash/conditionals-bash.md",
-    "bash/BashScript.md",
-    "bash/Bash.md",
-    "Obsidian.md",
+    "General/ram pump.md",
     "Future me problem.md",
-    "README.md"
+    "Programing/Untitled.md",
+    "Go/Gorutinies.md",
+    "README.md",
+    "Python/multiprocessing.md",
+    "Python/threads.md",
+    "Golang.md",
+    "Python/threads vs multiporcesing.md",
+    "Python/Python.md"
   ]
 }

@@ -2,23 +2,72 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Bash",
+      "query": "path:Bash",
       "color": {
         "a": 1,
         "rgb": 2401570
       }
     },
     {
-      "query": "Obsidian",
+      "query": "path:Obsidian",
       "color": {
         "a": 1,
         "rgb": 8670663
+      }
+    },
+    {
+      "query": "path:General",
+      "color": {
+        "a": 1,
+        "rgb": 14701242
+      }
+    },
+    {
+      "query": "path:Programing",
+      "color": {
+        "a": 1,
+        "rgb": 1863354
+      }
+    },
+    {
+      "query": "file:Future me problem",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Python",
+      "color": {
+        "a": 1,
+        "rgb": 15003714
+      }
+    },
+    {
+      "query": "path:Go",
+      "color": {
+        "a": 1,
+        "rgb": 2878446
+      }
+    },
+    {
+      "query": "path:Attachments",
+      "color": {
+        "a": 1,
+        "rgb": 7353856
       }
     }
   ],
@@ -29,9 +78,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 4.0625,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }
