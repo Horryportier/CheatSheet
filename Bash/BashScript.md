@@ -1,5 +1,5 @@
 #  [[BashScript]]
-[cheat sheet](https://devhints.io/bash) | [[Conditionals]] | [[Functions]] | #🔎 | #📃 
+[cheat sheet](https://devhints.io/bash) | [[Conditionals]] | [[Functions]] | #🔎 | #📃 | #💻 
 ___
 ### Syntax
 > - [[Conditionals]]

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "tag:#💻",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Bash",

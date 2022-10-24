@@ -1,6 +1,6 @@
 # [[Functions]]
 
-[[BashScript]] | [CheatSheet](https://devhints.io/bash#functions)
+[[BashScript]] | [CheatSheet](https://devhints.io/bash#functions) | #💻 
 ___
 ### Deceleration 
 ```bash

@@ -1,3 +1,3 @@
 # [[threads]]
-[[Python]] | [[threads vs multiporcesing]] | #⬜
+[[Python]] | [[threads vs multiporcesing]] | #⬜ | #💻 
 ___
