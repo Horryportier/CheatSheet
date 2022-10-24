@@ -1,3 +1,3 @@
 # [[Bash]] 
----
-[[BashScript]]
+[[BashScript]] | #📃 | #💻 | #⬜ 
+___

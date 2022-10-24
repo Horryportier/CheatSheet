@@ -1,5 +1,5 @@
 # [[Gorutinies]]
-[[Golang]] | [[threads]]
+[[Golang]] | [[threads]] | #🔎 
 ___
 > Gorutine is a lightweight thread 
 ```go

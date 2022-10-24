@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 7353856
       }
+    },
+    {
+      "query": "path:Japanese",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": true,
@@ -76,11 +83,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 4.0625,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 4.89583333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.5843581180567526,
+  "close": false
 }

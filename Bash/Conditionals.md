@@ -1,8 +1,7 @@
 # [[Conditionals]]
-[[BashScript]] | [cheat sheet](https://devhints.io/bash#conditionals)
-
-## Conditions
+[[BashScript]] | [cheat sheet](https://devhints.io/bash#conditionals)| 
 ___
+## Conditions
 >Note that  is actually a command/program that returns either ==0 (true) or 1 (false).== Any program that obeys the same logic (like all base utils, such as grep(1) or ping(1)) can be used as condition, see examples.
 
 ```bash

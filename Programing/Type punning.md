@@ -1,4 +1,4 @@
-[Wiki](https://en.wikipedia.org/wiki/Type_punning)
+[Wiki](https://en.wikipedia.org/wiki/Type_punning)| #💻 | #🔎 
 ___
 >Fancy name for technique  of doing unconventional stuff that would be hard or impossible other way around.
 ___
