@@ -9,3 +9,6 @@ ___
 
 ### Syntax
 > - [[make]]
+
+### Code design
+> -[[Code organization]]

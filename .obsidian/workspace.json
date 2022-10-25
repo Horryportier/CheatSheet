@@ -8,139 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "047952b81ef03c94",
+            "id": "da2c6eeb2c85fa88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/multiprocessing.md",
+                "file": "Go/Code organization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "feccec6012f2e02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/threads vs multiporcesing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "725f9ea6a0ba1f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/multiprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "490c535a8a648b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/threads vs multiporcesing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ea85091b81204c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b5e3ded26fc0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "403a74df0c396a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aba0b1f6c1327835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/BashScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5463cec85f5de976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf5dc70da07c15f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Channels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b097f9744f0a6fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a2d912bbe2320be",
+            "id": "f4d27880d9c4670e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9a2d912bbe2320be",
+  "active": "f4d27880d9c4670e",
   "lastOpenFiles": [
-    "tags.md",
-    "README.md",
-    "Obsidian.md",
-    "Future me problem.md",
-    "Python/threads vs multiporcesing.md",
     "Python/threads.md",
-    "Python/multiprocessing.md",
+    "Github/github.md",
+    "Go/Code organization.md",
+    "Programing/Programming.md",
     "Python/Python.md",
-    "Programing/Enum.md",
-    "Programing/Type punning.md"
+    "Math/Calculus.md",
+    "Math/Math.md",
+    "Python/factory.md",
+    "Go/make.md",
+    "Go/Golang.md"
   ]
 }
