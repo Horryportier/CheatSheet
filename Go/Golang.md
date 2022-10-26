@@ -3,7 +3,7 @@
 ___
 > $Best Language$
 
-### Async
+### [[Concurrency]]
 > - [[Gorutinies]]
 > - [[Channels]]
 
