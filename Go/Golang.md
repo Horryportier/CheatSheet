@@ -9,6 +9,7 @@ ___
 
 ### Syntax
 > - [[make]]
+> - [[defer]]
 
 ### Code design
 > -[[Code organization]]

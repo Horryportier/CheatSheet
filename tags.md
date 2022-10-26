@@ -10,6 +10,7 @@ ___
 - #🔌 -> electronics
 - #📈 -> math
 - #📃 -> moc (file linking to files in an category)
+- #🌼 -> gardening
 ## status
 - #⬜ -> blank
 - #🌱 -> started 
