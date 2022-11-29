@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "984d2062db2e59b8",
+        "id": "2ade79246c7762f9",
         "type": "tabs",
         "children": [
           {
-            "id": "05a545a7f011d905",
+            "id": "b9cdc49a7a04e745",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "c2da6be8f6aefc37",
+            "id": "e394bd59a33157ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Next day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09c6fdc9a7d197b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/openup.md",
+                "file": "Japanese/Japanese.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#e",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/openup.md",
+                "file": "Japanese/Japanese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/openup.md",
+                "file": "Japanese/Japanese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/openup.md"
+                "file": "Japanese/Japanese.md"
               }
             }
           }
@@ -157,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09c6fdc9a7d197b9",
+  "active": "e394bd59a33157ce",
   "lastOpenFiles": [
-    "personal/Next day.md",
-    "personal/openup.md",
-    "Go/Golang.md",
-    "Math/Math.md",
-    "Math/Calculus.md",
+    "Japanese/Japanese.md",
+    "Bash/Conditionals.md",
+    "Bash/BashScript.md",
+    "Bash/Functions.md",
     "Python/threads vs multiporcesing.md",
-    "Python/threads.md",
-    "Github/github.md",
-    "Python/multiprocessing.md",
-    "Programing/Enum.md"
+    "tags.md",
+    "Programing/state machines.md",
+    "Python/Python.md",
+    "Programing/Programming.md",
+    "Programing/Noise.md"
   ]
 }

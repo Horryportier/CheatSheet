@@ -37,3 +37,4 @@ ___
 [[ FILE1 -ot FILE2 ]] 	#2 is more recent than 1
 [[ FILE1 -ef FILE2 ]] 	#Same files
 ```
+

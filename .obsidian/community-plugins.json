@@ -1,4 +1,6 @@
 [
   "obsidian-vimrc-support",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-excalidraw-plugin",
+  "obsidian-relative-line-numbers"
 ]
