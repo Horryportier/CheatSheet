@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ade79246c7762f9",
+        "id": "dc82cbe2a5d1eb17",
         "type": "tabs",
         "children": [
           {
-            "id": "b9cdc49a7a04e745",
+            "id": "50fda66030762334",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "e394bd59a33157ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Japanese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ram pump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Japanese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/Japanese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Japanese/Japanese.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e394bd59a33157ce",
+  "active": "50fda66030762334",
   "lastOpenFiles": [
-    "Japanese/Japanese.md",
-    "Bash/Conditionals.md",
-    "Bash/BashScript.md",
-    "Bash/Functions.md",
-    "Python/threads vs multiporcesing.md",
-    "tags.md",
-    "Programing/state machines.md",
-    "Python/Python.md",
+    "Ideas/IDEAS.md",
+    "Ideas/shelf above soldering station.md",
+    "Excalidraw/shelf.excalidraw.md",
+    "General/ram pump.md",
+    "personal/Next day.md",
+    "Go/Json Go.md",
+    "Go/struct to json.md",
+    "Go/Golang.md",
     "Programing/Programming.md",
-    "Programing/Noise.md"
+    "Japanese/Japanese.md"
   ]
 }
