@@ -2,7 +2,10 @@
 
 msg="$(date)"
 
-echo "$(git add .)"
-echo "$(git commit -m "$msg")"
-echo "$(git push origin main)"
+
+echo -e "$(git pull)"
+
+echo -e "$(git add .)"
+echo -e "$(git commit -m "$msg")"
+echo -e "$(git push origin main)"
 
