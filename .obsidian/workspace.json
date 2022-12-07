@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50fda66030762334",
+            "id": "121c606d425efb50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ram pump",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bash/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bash/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bash/Functions.md"
+              }
             }
           }
         ]
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50fda66030762334",
+  "active": "121c606d425efb50",
   "lastOpenFiles": [
+    "Bash/BashScript.md",
+    "Bash/Conditionals.md",
+    "Bash/Bash.md",
     "Ideas/IDEAS.md",
     "Ideas/shelf above soldering station.md",
     "Excalidraw/shelf.excalidraw.md",
     "General/ram pump.md",
     "personal/Next day.md",
     "Go/Json Go.md",
-    "Go/struct to json.md",
-    "Go/Golang.md",
-    "Programing/Programming.md",
-    "Japanese/Japanese.md"
+    "Go/struct to json.md"
   ]
 }
