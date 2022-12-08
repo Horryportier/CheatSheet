@@ -11,9 +11,11 @@
             "id": "8904ec0014a3b876",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
+                "file": "Japanese/日本.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
+                "file": "Japanese/日本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
+                "file": "Japanese/日本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
+                "file": "Japanese/日本.md"
               }
             }
           }
