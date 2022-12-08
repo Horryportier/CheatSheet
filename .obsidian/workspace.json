@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc82cbe2a5d1eb17",
+        "id": "3403506acf49b1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "121c606d425efb50",
+            "id": "8904ec0014a3b876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Bash/Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Functions.md",
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Functions.md",
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Functions.md"
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
               }
             }
           }
@@ -137,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "121c606d425efb50",
+  "active": "8904ec0014a3b876",
   "lastOpenFiles": [
+    "Excalidraw/TuiGigFiverr.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-07 21.24.12.excalidraw.md",
+    "Bash/Functions.md",
     "Bash/BashScript.md",
     "Bash/Conditionals.md",
     "Bash/Bash.md",
     "Ideas/IDEAS.md",
     "Ideas/shelf above soldering station.md",
     "Excalidraw/shelf.excalidraw.md",
-    "General/ram pump.md",
-    "personal/Next day.md",
-    "Go/Json Go.md",
-    "Go/struct to json.md"
+    "General/ram pump.md"
   ]
 }
