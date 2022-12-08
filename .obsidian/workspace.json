@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/BashScript.md",
+                "file": "Go/Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed84d987bbcb68d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Concurrency.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/BashScript.md",
+                "file": "Go/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/BashScript.md",
+                "file": "Go/Concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/BashScript.md"
+                "file": "Go/Concurrency.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b311b8c237550b62",
+  "active": "ed84d987bbcb68d9",
   "lastOpenFiles": [
+    "Go/Golang.md",
+    "Go/Concurrency.md",
+    "Bash/BashScript.md",
     "Go/Channels.md",
     "Japanese/日本.md",
     "Excalidraw/TuiGigFiverr.excalidraw.md",
     "Excalidraw/Drawing 2022-12-07 21.24.12.excalidraw.md",
     "Bash/Functions.md",
-    "Bash/BashScript.md",
     "Bash/Conditionals.md",
-    "Bash/Bash.md",
-    "Ideas/IDEAS.md",
-    "Ideas/shelf above soldering station.md"
+    "Bash/Bash.md"
   ]
 }
