@@ -1,0 +1,3 @@
+# [[Kanji learning tui]]
+#🌱  | #🈯 
+___

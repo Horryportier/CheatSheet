@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Conditionals.md",
+                "file": "Ideas/IDEAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b70f273693289521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Kanji learning tui.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Conditionals.md",
+                "file": "Ideas/Kanji learning tui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Conditionals.md",
+                "file": "Ideas/Kanji learning tui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Conditionals.md"
+                "file": "Ideas/Kanji learning tui.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f67c4a1963b5a5f",
+  "active": "b70f273693289521",
   "lastOpenFiles": [
-    "Bash/BashScript.md",
+    "Ideas/IDEAS.md",
     "Excalidraw/TuiGigFiverr.excalidraw.md",
+    "Bash/Conditionals.md",
+    "Bash/BashScript.md",
     "Japanese/からかい上手の高木さん-S1E1.md",
     "Excalidraw/shelf.excalidraw.md",
     "Attachments/structure.png",
     "Japanese/日本.md",
     "Japanese/アニメ.md",
-    "Japanese/からかい上手の高木さん.md",
-    "Go/Golang.md",
-    "Math/Calculus.md"
+    "Japanese/からかい上手の高木さん.md"
   ]
 }
