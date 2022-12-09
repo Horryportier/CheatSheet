@@ -11,9 +11,11 @@
             "id": "9f67c4a1963b5a5f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
+                "file": "Bash/BashScript.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
+                "file": "Bash/BashScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
+                "file": "Bash/BashScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
+                "file": "Bash/BashScript.md"
               }
             }
           }
@@ -136,9 +138,9 @@
   },
   "active": "9f67c4a1963b5a5f",
   "lastOpenFiles": [
+    "Excalidraw/TuiGigFiverr.excalidraw.md",
     "Japanese/からかい上手の高木さん-S1E1.md",
     "Excalidraw/shelf.excalidraw.md",
-    "Excalidraw/TuiGigFiverr.excalidraw.md",
     "Attachments/structure.png",
     "Japanese/日本.md",
     "Japanese/アニメ.md",
