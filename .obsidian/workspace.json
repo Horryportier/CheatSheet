@@ -11,11 +11,9 @@
             "id": "9f67c4a1963b5a5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Japanese/からかい上手の高木さん-S1E1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/からかい上手の高木さん-S1E1.md",
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/からかい上手の高木さん-S1E1.md",
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/からかい上手の高木さん-S1E1.md"
+                "file": "Excalidraw/TuiGigFiverr.excalidraw.md"
               }
             }
           }
@@ -138,12 +136,12 @@
   },
   "active": "9f67c4a1963b5a5f",
   "lastOpenFiles": [
+    "Japanese/からかい上手の高木さん-S1E1.md",
     "Excalidraw/shelf.excalidraw.md",
     "Excalidraw/TuiGigFiverr.excalidraw.md",
     "Attachments/structure.png",
     "Japanese/日本.md",
     "Japanese/アニメ.md",
-    "Japanese/からかい上手の高木さん-S1E1.md",
     "Japanese/からかい上手の高木さん.md",
     "Go/Golang.md",
     "Math/Calculus.md",

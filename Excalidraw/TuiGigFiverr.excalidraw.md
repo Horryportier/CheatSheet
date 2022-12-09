@@ -64,29 +64,14 @@ database integration
   if needed
  ^biwUesBc
 
-Order Description:
-this is the preferred way to describe to me your problem and how you want me to solve it.
-    - Problem/Idea - describe what is your problem so i can understand scope of the problem and if it is possible to
-        implement it in the pricing you want. 
-    - Needed tools/technologies - every package, tool and website that I need to scrape or use any API 
-    - Mockup - if u have one shere it with me even if its at latter stage of the work but then i may not be able to 
-        implement it in the agreed upon time frame.
-    - Similar project - everything that can be inspiration for the project like theme, layout, features.
-You will receive:
-    - full source code.
-    - executable.
-    - installation script or detailed commands if you prefer it that way.
-    - additional help if there are any problems with installation or OS specific problems.
-    - code documentation (not eligible in SIMPLE package).
-    - simple tutorial to changing settings, themes and keybinds
-Tools I'm using:
-I'm using mainly golang and https://github.com/charmbracelet tools. but I'm familiar with python, bash, and lua. If there is any
-piece of technology that I may have problems with I will message you about it and I be open to discussing every decision you 
-want to take.
-Any Problems:
-If there will be any bugs problems in the app after finishing the order you can message me and I will be open to fix/change 
-some things for small additional price or for free  if its small change.
- ^YYebW1Ev
+About this Gig:  
+
+I will write an nice tui application tailored to your needs. You will receive binary and
+ source code with documentation (not available in basic package). 
+
+Time to complete an order will vary with complexity of the project.
+
+Technologies I use - (Golang - Bubbletea), (bash script - gum), (python - textual). ^YYebW1Ev
 
 Description ^ljHNNdLx
 
@@ -674,8 +659,8 @@ Portfolio PDF: ^yqkeSB7v
 		},
 		{
 			"type": "rectangle",
-			"version": 92,
-			"versionNonce": 877980694,
+			"version": 126,
+			"versionNonce": 696755206,
 			"isDeleted": false,
 			"id": "76iiKiNu0BJM_GA02nIQs",
 			"fillStyle": "hachure",
@@ -688,20 +673,20 @@ Portfolio PDF: ^yqkeSB7v
 			"y": 188.09375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 469.5,
-			"height": 251.5,
+			"width": 350.92857142857144,
+			"height": 124.35714285714279,
 			"seed": 349108042,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670442590645,
+			"updated": 1670590465102,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2577,
-			"versionNonce": 207793482,
+			"version": 2589,
+			"versionNonce": 830463258,
 			"isDeleted": false,
 			"id": "YYebW1Ev",
 			"fillStyle": "hachure",
@@ -710,33 +695,33 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -254,
-			"y": 187.09375,
+			"x": -244,
+			"y": 204.2366071428571,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 464,
-			"height": 230,
+			"width": 308,
+			"height": 80,
 			"seed": 2095590666,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670442682208,
+			"updated": 1670590459356,
 			"link": null,
 			"locked": false,
 			"fontSize": 7.375886524822693,
 			"fontFamily": 1,
-			"text": "Order Description:\nthis is the preferred way to describe to me your problem and how you want me to solve it.\n    - Problem/Idea - describe what is your problem so i can understand scope of the problem and if it is possible to\n        implement it in the pricing you want. \n    - Needed tools/technologies - every package, tool and website that I need to scrape or use any API \n    - Mockup - if u have one shere it with me even if its at latter stage of the work but then i may not be able to \n        implement it in the agreed upon time frame.\n    - Similar project - everything that can be inspiration for the project like theme, layout, features.\nYou will receive:\n    - full source code.\n    - executable.\n    - installation script or detailed commands if you prefer it that way.\n    - additional help if there are any problems with installation or OS specific problems.\n    - code documentation (not eligible in SIMPLE package).\n    - simple tutorial to changing settings, themes and keybinds\nTools I'm using:\nI'm using mainly golang and https://github.com/charmbracelet tools. but I'm familiar with python, bash, and lua. If there is any\npiece of technology that I may have problems with I will message you about it and I be open to discussing every decision you \nwant to take.\nAny Problems:\nIf there will be any bugs problems in the app after finishing the order you can message me and I will be open to fix/change \nsome things for small additional price or for free  if its small change.\n",
-			"rawText": "Order Description:\nthis is the preferred way to describe to me your problem and how you want me to solve it.\n    - Problem/Idea - describe what is your problem so i can understand scope of the problem and if it is possible to\n        implement it in the pricing you want. \n    - Needed tools/technologies - every package, tool and website that I need to scrape or use any API \n    - Mockup - if u have one shere it with me even if its at latter stage of the work but then i may not be able to \n        implement it in the agreed upon time frame.\n    - Similar project - everything that can be inspiration for the project like theme, layout, features.\nYou will receive:\n    - full source code.\n    - executable.\n    - installation script or detailed commands if you prefer it that way.\n    - additional help if there are any problems with installation or OS specific problems.\n    - code documentation (not eligible in SIMPLE package).\n    - simple tutorial to changing settings, themes and keybinds\nTools I'm using:\nI'm using mainly golang and https://github.com/charmbracelet tools. but I'm familiar with python, bash, and lua. If there is any\npiece of technology that I may have problems with I will message you about it and I be open to discussing every decision you \nwant to take.\nAny Problems:\nIf there will be any bugs problems in the app after finishing the order you can message me and I will be open to fix/change \nsome things for small additional price or for free  if its small change.\n",
-			"baseline": 227,
+			"text": "About this Gig:  \n\nI will write an nice tui application tailored to your needs. You will receive binary and\n source code with documentation (not available in basic package). \n\nTime to complete an order will vary with complexity of the project.\n\nTechnologies I use - (Golang - Bubbletea), (bash script - gum), (python - textual).",
+			"rawText": "About this Gig:  \n\nI will write an nice tui application tailored to your needs. You will receive binary and\n source code with documentation (not available in basic package). \n\nTime to complete an order will vary with complexity of the project.\n\nTechnologies I use - (Golang - Bubbletea), (bash script - gum), (python - textual).",
+			"baseline": 77,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Order Description:\nthis is the preferred way to describe to me your problem and how you want me to solve it.\n    - Problem/Idea - describe what is your problem so i can understand scope of the problem and if it is possible to\n        implement it in the pricing you want. \n    - Needed tools/technologies - every package, tool and website that I need to scrape or use any API \n    - Mockup - if u have one shere it with me even if its at latter stage of the work but then i may not be able to \n        implement it in the agreed upon time frame.\n    - Similar project - everything that can be inspiration for the project like theme, layout, features.\nYou will receive:\n    - full source code.\n    - executable.\n    - installation script or detailed commands if you prefer it that way.\n    - additional help if there are any problems with installation or OS specific problems.\n    - code documentation (not eligible in SIMPLE package).\n    - simple tutorial to changing settings, themes and keybinds\nTools I'm using:\nI'm using mainly golang and https://github.com/charmbracelet tools. but I'm familiar with python, bash, and lua. If there is any\npiece of technology that I may have problems with I will message you about it and I be open to discussing every decision you \nwant to take.\nAny Problems:\nIf there will be any bugs problems in the app after finishing the order you can message me and I will be open to fix/change \nsome things for small additional price or for free  if its small change.\n"
+			"originalText": "About this Gig:  \n\nI will write an nice tui application tailored to your needs. You will receive binary and\n source code with documentation (not available in basic package). \n\nTime to complete an order will vary with complexity of the project.\n\nTechnologies I use - (Golang - Bubbletea), (bash script - gum), (python - textual)."
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 2091158422,
+			"version": 82,
+			"versionNonce": 199836122,
 			"isDeleted": false,
 			"id": "ljHNNdLx",
 			"fillStyle": "hachure",
@@ -745,8 +730,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -78,
-			"y": 164.09375,
+			"x": -139.42857142857144,
+			"y": 161.2366071428571,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 87,
@@ -755,7 +740,7 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670442629006,
+			"updated": 1670590467402,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -770,8 +755,8 @@ Portfolio PDF: ^yqkeSB7v
 		},
 		{
 			"type": "rectangle",
-			"version": 69,
-			"versionNonce": 79329034,
+			"version": 97,
+			"versionNonce": 1557041114,
 			"isDeleted": false,
 			"id": "uyNiY5PbzXU4jeojyxAKm",
 			"fillStyle": "hachure",
@@ -780,8 +765,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -240,
-			"y": 482.59375,
+			"x": -317.1428571428571,
+			"y": 371.16517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 150.5,
@@ -790,14 +775,14 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444561279,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 1475640714,
+			"version": 53,
+			"versionNonce": 151417542,
 			"isDeleted": false,
 			"id": "BvRLbeVS",
 			"fillStyle": "hachure",
@@ -806,8 +791,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -225,
-			"y": 491.09375,
+			"x": -302.1428571428571,
+			"y": 379.66517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 61,
@@ -816,7 +801,7 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444578208,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -831,8 +816,8 @@ Portfolio PDF: ^yqkeSB7v
 		},
 		{
 			"type": "rectangle",
-			"version": 107,
-			"versionNonce": 1869331990,
+			"version": 135,
+			"versionNonce": 1189315738,
 			"isDeleted": false,
 			"id": "crxjOmyu0BAcH7-Ez6BfE",
 			"fillStyle": "hachure",
@@ -841,8 +826,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -69.25,
-			"y": 483.34375,
+			"x": -146.3928571428571,
+			"y": 371.91517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 150.5,
@@ -851,14 +836,14 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444589049,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 757138646,
+			"version": 103,
+			"versionNonce": 779627014,
 			"isDeleted": false,
 			"id": "CeHTVrlR",
 			"fillStyle": "hachure",
@@ -867,8 +852,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -54.25,
-			"y": 491.84375,
+			"x": -131.3928571428571,
+			"y": 380.41517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 44,
@@ -877,7 +862,7 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444603507,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -892,8 +877,8 @@ Portfolio PDF: ^yqkeSB7v
 		},
 		{
 			"type": "rectangle",
-			"version": 105,
-			"versionNonce": 2100157846,
+			"version": 133,
+			"versionNonce": 872145242,
 			"isDeleted": false,
 			"id": "qf_JMf5CzXHwELPMu4Yej",
 			"fillStyle": "hachure",
@@ -902,8 +887,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 109.75,
-			"y": 485.34375,
+			"x": 32.60714285714289,
+			"y": 373.91517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 150.5,
@@ -912,14 +897,14 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444594677,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1130004566,
+			"version": 127,
+			"versionNonce": 53541190,
 			"isDeleted": false,
 			"id": "yqkeSB7v",
 			"fillStyle": "hachure",
@@ -928,8 +913,8 @@ Portfolio PDF: ^yqkeSB7v
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 124.75,
-			"y": 493.84375,
+			"x": 47.60714285714289,
+			"y": 382.41517857142856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 115,
@@ -938,7 +923,7 @@ Portfolio PDF: ^yqkeSB7v
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670444640083,
+			"updated": 1670590472139,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
