@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,8 +131,8 @@
   },
   "active": "04ea75fb93151603",
   "lastOpenFiles": [
-    "Ideas/Kanji learning tui.md",
     "Ideas/IDEAS.md",
+    "Ideas/Kanji learning tui.md",
     "Excalidraw/TuiGigFiverr.excalidraw.md",
     "Bash/Conditionals.md",
     "Bash/BashScript.md",

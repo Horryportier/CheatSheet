@@ -6,3 +6,4 @@ ___
 - [[shelf above soldering station]]
 - [[battery powered lawnmower]]
 - [[Kanji learning tui]]
+- [[Go jisho wrappper]]
