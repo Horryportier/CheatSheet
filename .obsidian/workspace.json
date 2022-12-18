@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8dd65a2a0946e54",
+        "id": "57cc618a3d46b89c",
         "type": "tabs",
         "children": [
           {
-            "id": "04ea75fb93151603",
+            "id": "0a72ce378db53fcd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Go jisho wrappper.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideas/Go jisho wrappper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideas/Go jisho wrappper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideas/Go jisho wrappper.md"
+              }
             }
           }
         ]
@@ -129,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04ea75fb93151603",
+  "active": "0a72ce378db53fcd",
   "lastOpenFiles": [
+    "Excalidraw/TuiJapaneseDic.excalidraw.md",
+    "Ideas/Go jisho wrappper.md",
+    "Ideas/shelf above soldering station.md",
     "Ideas/IDEAS.md",
     "Ideas/Kanji learning tui.md",
-    "Excalidraw/TuiGigFiverr.excalidraw.md",
-    "Bash/Conditionals.md",
-    "Bash/BashScript.md",
-    "Japanese/からかい上手の高木さん-S1E1.md",
+    "Ideas/TuiJapaneseDic.excalidraw.md",
     "Excalidraw/shelf.excalidraw.md",
-    "Attachments/structure.png",
-    "Japanese/日本.md",
-    "Japanese/アニメ.md"
+    "Excalidraw/TuiGigFiverr.excalidraw.md",
+    "Ideas/Data glove.md",
+    "Excalidraw/samrt_glove.excalidraw.md"
   ]
 }
