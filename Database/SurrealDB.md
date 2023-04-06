@@ -3,10 +3,7 @@
 
 
 ## <div align="center" style="color: #AC00FA"> <h2>BASICS</h2></div>
-```sql
-/* Inserting data
 
-By default, SurrealDB doesn't need to have tables or fields defined before inserting data. Instead the database can be queried in schemaless mode, and tables are created ad hoc. In this guide, we will be running all queries in schemaless mode.
-*/
-CREATE account SET name = 'CHAD', created_at = time::now();
-```
+### ![[surreal-create]]
+
+### ![[querry-surreal]]

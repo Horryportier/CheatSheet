@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9697bcd51aebc604",
+        "id": "13e24b140bc748e8",
         "type": "tabs",
         "children": [
           {
-            "id": "792c5ce60b2a149d",
+            "id": "55c730d0feb8a019",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,26 +139,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "792c5ce60b2a149d",
+  "active": "55c730d0feb8a019",
   "lastOpenFiles": [
-    "Database/how to run as root and connect using curl.md",
-    "Rust",
     "Database/SurrealDB.md",
+    "Database/DATBESE.md",
+    "Database/surreal-create.md",
+    "Database/querry-surreal.md",
+    "Database/how to run as root and connect using curl.md",
+    "General/ram pump.md",
+    "Programing/Enum.md",
+    "Programing/state machines.md",
+    "Programing/Noise.md",
+    "Programing/Programming.md",
+    "Programing/Neural Networks.md",
+    "Python/threads vs multiporcesing.md",
+    "Python/threads.md",
+    "Python/Python.md",
+    "Python/multiprocessing.md",
+    "Python/factory.md",
+    "Go/make.md",
+    "Go/naming convection.md",
+    "Go/Json Go.md",
+    "Go/struct to json.md",
+    "Go/Gorutinies.md",
+    "Go/go.mod.md",
+    "Go/Channels.md",
+    "Untitled.canvas",
+    "Template/h2-text-center-color.md",
+    "Attachments/structure.png",
     "Attachments/bashtui.png",
-    "Template/Header-link-img-text-center.md",
+    "Obsidian.md",
+    "README.md",
+    "Pasted Image 20221209164016_816.gif",
+    "Pasted Image 20221209163943_739.png",
+    "Pasted Image 20221209145018_906.png",
+    "Rust",
     "Template",
     "Database",
-    "Attachments/structure.png",
-    "Attachments/ram-pump.gif",
-    "Excalidraw/samrt_glove.excalidraw.md",
-    "Excalidraw/shelf.excalidraw.md",
-    "Excalidraw/TuiGigFiverr.excalidraw.md",
-    "Excalidraw/TuiJapaneseDic.excalidraw.md",
-    "Ideas/Go jisho wrappper.md",
-    "Ideas/shelf above soldering station.md",
-    "Ideas/IDEAS.md",
-    "Ideas/Kanji learning tui.md",
-    "Ideas/TuiJapaneseDic.excalidraw.md",
-    "Ideas/Data glove.md"
+    "Attachments/ram-pump.gif"
   ]
 }

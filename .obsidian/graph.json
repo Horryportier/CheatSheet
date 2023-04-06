@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Go",
@@ -61,6 +61,20 @@
       "color": {
         "a": 1,
         "rgb": 15728700
+      }
+    },
+    {
+      "query": "path:Database",
+      "color": {
+        "a": 1,
+        "rgb": 8388863
+      }
+    },
+    {
+      "query": "path:Template",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
