@@ -2,5 +2,7 @@
   "spellcheck": true,
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "strictLineBreaks": false
 }
