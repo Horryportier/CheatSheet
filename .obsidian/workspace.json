@@ -11,8 +11,12 @@
             "id": "55c730d0feb8a019",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/SurrealDB.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/SurrealDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/SurrealDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/SurrealDB.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "55c730d0feb8a019",
   "lastOpenFiles": [
+    "Python/multiprocessing.md",
     "Database/SurrealDB.md",
     "Database/DATBESE.md",
     "Database/surreal-create.md",
@@ -155,7 +164,6 @@
     "Python/threads vs multiporcesing.md",
     "Python/threads.md",
     "Python/Python.md",
-    "Python/multiprocessing.md",
     "Python/factory.md",
     "Go/make.md",
     "Go/naming convection.md",
